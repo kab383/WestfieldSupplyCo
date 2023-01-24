@@ -6,7 +6,7 @@
   line-height: 50px;
   padding: 0 35px 0 35px;
   font-size: 15px;
-  background-color: black;
+  background-color: rgb(75, 56, 42);
   color: white;
   text-transform: uppercase;
   font-family: 'Open Sans Condensed';
@@ -34,7 +34,7 @@
 
   &.inverted {
     background-color: white;
-    color: black;
+    color: rgb(75, 56, 42);
     border: 1px solid black;
 
     &:hover {
